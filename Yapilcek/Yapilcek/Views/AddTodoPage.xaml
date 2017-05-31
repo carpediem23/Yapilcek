@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Yapilcek.Views.AddTodoPage">
+    <ContentPage.Content>
+        <StackLayout Padding="20">
+            <Entry x:Name="TodoName" Placeholder="Ne yapilcek?"></Entry>
+            <Button x:Name="AddButton" Text="Yapilcek" BackgroundColor="#FFEB3B" TextColor="White" Clicked="AddTodoClicked"></Button>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
