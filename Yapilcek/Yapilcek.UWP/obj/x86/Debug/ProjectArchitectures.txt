@@ -1,0 +1,2 @@
+C:\Users\alptu\Documents\Projects\Yapilcek\Yapilcek\Yapilcek.UWP\Yapilcek.UWP.csproj;x86
+C:\Users\alptu\Documents\Projects\Yapilcek\Yapilcek\Yapilcek\Yapilcek.csproj;neutral
